@@ -16,21 +16,13 @@ A bit about myself,
 
 ## Technical Skills 🛠
 
-- Programming Languages: Python, C++, Dart, Java
-- Web Development: JavaScript, ReactJS, Typescript
-- Design Tools: Canva
-- Version Control: Git
-- IDE: Visual Studio Code, PyCharm
+- Programming Languages: C++, Dart, Java
+- Flutter Development
+- IOS Development
+- Web Development
+- Block Chain Development
 
-<div align="center">
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+
 
 
 I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
@@ -41,6 +33,7 @@ Let's have a look at some of my noteworthy projects:
 
 1. [Jai Kisan](https://github.com/Shivansh722/Jai-Kisan): This project is an app developed in flutter to help the farmers in India.
 2. [SRM Live](https://github.com/Shivansh722/go_live): Live app to show the current events and activities in the college.
+3. [The Pocket Money](https://github.com/Shivansh722/the_pocket_money): An application to revelutionise how Indian youth generates employment.
 
 
 ## Let's Connect
@@ -51,17 +44,13 @@ Feel free to reach out to me on [LinkedIn](https:https://www.linkedin.com/in/mai
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shivansh722&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivansh722&theme=dracula&hide_border=true)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh722&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
-## 🏆 GitHub Trophies of Shivansh
-
-![](https://github-profile-trophy.vercel.app/?username=shivansh722&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -74,4 +63,4 @@ Feel free to reach out to me on [LinkedIn](https:https://www.linkedin.com/in/mai
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/namratha-vj.svg?style=social&label=Follow)](https://github.com/shivansh722?tab=followers)
+
