@@ -1,66 +1,53 @@
-[![MasterHead](https://camo.githubusercontent.com/4c2034f05e9401dd378444ddf4d41faa4064faffbb6d761e7ceee24eadf7aa12/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)](https://shivansh722.io)
+ <h1 align="center"> Hello there! I am Shivansh Chaturvedi ✌️</h1>
+ <h4 align="center"> Student • Programmer • Flutter and iOS Developer • FreeLancer  • Blockchain Developer • Backend Developer</h4>
+ 
+ ---
+ ## ✌️ Fun Things About Me
+ 
+  - Studying in third year of College
+  - Software Freak & Tech Enthusiast
+  - Interested in developing products that are meaningful
+  - *Hobbies: talking to people(which I hardly get) and exploring the world(preferebly alone cos who wants to fight with them)*
 
-<h1 align="center">👋 Heyy, I'm <a href="//www.linkedin.com/in/maishivansh/" target="_blank"> Shivansh Chaturvedi </a> </h1>
+---
+## 🔥 Cool Projects 
+ Projects I have done
+  - [**JAI KISAN**](https://github.com/Shivansh722/Jai_Kisan) is a passion project for the most proud creed of India.
+  - [**The Pocket Money**](https://github.com/Shivansh722/the_pocket_money/tree/master) is a revelutionary application which would restructure India's employment genereation system.
 
-A bit about myself,
+    
+Projects I am currently working on
+ -  [Oxytocin](https://github.com/Shivansh722/Oxytocin) an idea for me and my friends?
 
-🎓 Currently in my third year.
+--- 
+## 🔗 Socials 
 
-🔍 My current fascination lies in **Flutter dev**. I'm actively experimenting with **Blockchain development** and am passionate about diving deep into the intricate world of cyber security.
-
-🚀 My goal? To explore and contribute to a multitude of software development.
-
-<h3 align="center">Freelancer | Flutter Developer | Enthusiastic about the intersections of technology | Mentor and Educator for Underprivileged Students.</h3>
-
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=shivansh722&label=Profile%20views&color=6805D3&style=flat" alt="shivansh722" /> </p></h3>
-
-## Technical Skills 🛠
-
-- Programming Languages: C++, Dart, Java
-- Flutter Development
-- IOS Development
-- Web Development
-- Block Chain Development
-
-
-
-
-I believe in implementing the knowledge which I have. Projects play a major role in showcasing our skills. They help in predicting the skills of a person. So let's have a look at my projects.
-
-## Projects
-
-Let's have a look at some of my noteworthy projects:
-
-1. [Jai Kisan](https://github.com/Shivansh722/Jai-Kisan): This project is an app developed in flutter to help the farmers in India.
-2. [SRM Live](https://github.com/Shivansh722/go_live): Live app to show the current events and activities in the college.
-3. [The Pocket Money](https://github.com/Shivansh722/the_pocket_money): An application to revelutionise how Indian youth generates employment.
+- Linkedin Profile: [ShivanshChaturvedi](https://www.linkedin.com/in/maishivansh/)
 
 
-## Let's Connect
+---
+<details>
+<summary> 📊 GitHub Stats </summary> 
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh722&theme=dark&hide_border=false)
 
-Feel free to reach out to me on [LinkedIn](https:https://www.linkedin.com/in/maishivansh/).
+---
 
-<div align="center">
+## 💻 Tech Stack
 
-## 📊 GitHub Stats
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Nest.js](https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express) 
+![Javascript](https://img.shields.io/badge/Javascript-%23007ACC.svg?style=for-the-badge&logo=Javascript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shivansh722&theme=dracula&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh722&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-
-
-
-## Find me Here
-
-<div align="center">
-<a  href="https://www.linkedin.com/in/maishivansh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shivanshcha722@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<br>
-
-
+---
+![Profile views](https://komarev.com/ghpvc/?username=Shivansh722&label=Profile+Views&color=green) 
