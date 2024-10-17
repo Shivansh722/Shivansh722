@@ -18,6 +18,7 @@
     
 Projects I am currently working on
  -  [Oxytocin](https://github.com/Shivansh722/Oxytocin) an idea for me and my friends?
+ -  [Much2share](https://github.com/Shivansh722/much2share) let's make something better than Notion? Shall we?
 
 --- 
 ## 🔗 Socials 
