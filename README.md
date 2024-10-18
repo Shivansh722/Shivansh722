@@ -7,8 +7,7 @@
   - Studying in third year of College
   - Software Freak & Tech Enthusiast
   - Interested in developing products that are meaningful
-  - *Hobbies: talking to people(which I hardly get) and exploring the world(preferebly alone cos who wants to fight with them)*
-
+  - *Hobbies: Talking, Writing, Loving, ___ing
 ---
 ## 🔥 Cool Projects 
  Projects I have done
