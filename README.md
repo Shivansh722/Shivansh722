@@ -1,4 +1,4 @@
- <h1 align="center"> Hi! I am Shivansh Chaturvedi ✌️</h1>
+ <h1 align="center"> Hi! I am Shivansh✌️</h1>
  <h4 align="center"> Student • Programmer • Flutter and iOS Developer • FreeLancer  • Blockchain Developer • Backend Developer</h4>
  
  ---
