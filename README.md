@@ -5,7 +5,7 @@
  ## ✌️ Fun Things About Me
  
   - Studying in third year of College
-  - Software Freak & Tech Enthusiast
+  - Tech Enthusiast
   - Interested in developing products that are meaningful
   - *Hobbies: Talking, Writing, Loving, ___ing*
 ---
