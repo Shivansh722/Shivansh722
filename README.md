@@ -16,7 +16,7 @@
 
     
 Projects I am currently working on
- -  [Oxytocin](https://github.com/Shivansh722/Oxytocin) an idea for me and my friends?
+ -  [Giggle]([(https://github.com/Shivansh722/Giggle_swiftui)]) an idea for the day?
  -  [Much2share](https://github.com/Shivansh722/much2share) let's make something better than Notion? Shall we?
 
 --- 
