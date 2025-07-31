@@ -4,7 +4,7 @@
  ---
  ## ✌️ Fun Things About Me
  
-  - Studying in third year of College
+  - Studying in fourth year of College
   - Tech Enthusiast
   - Interested in developing products that are meaningful
   - *Hobbies: Talking, Writing, Loving, ___ing*
@@ -16,7 +16,7 @@
 
     
 Projects I am currently working on
- -  [Giggle]([(https://github.com/Shivansh722/Giggle_swiftui)]) an idea for the day?
+ -  [Giggle](https://github.com/Shivansh722/Giggle_swiftui) an idea for the day?
  -  [Much2share](https://github.com/Shivansh722/much2share) let's make something better than Notion? Shall we?
 
 --- 
